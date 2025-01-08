@@ -30,11 +30,19 @@ Here are some key projects featured on this portfolio:
    - **Live Demo**: [The Clueless Cook on GitHub Pages](https://ronald-it.github.io/the-clueless-cook/)  
    - A web application for searching and exploring recipes, originally built as my Frontend Development bootcamp final project and now rebuilt to be fully responsive across all screen sizes.
 
-2. **Membership Manager** *(In Progress)*  
+2. **Membership Manager** 
+   - **GitHub Repository**: [Membership Manager](https://github.com/ronald-it/membership-manager)  
+   - **Live Demo**: [The Clueless Cook on GitHub Pages](https://membership-manager.onrender.com/) 
    - A full-stack membership management web application, built as the final project for the PHP & MySQL module of my Backend Development program. It supports CRUD operations for managing members and related data.
 
-3. **Product Feedback Hub** *(In Progress)*  
-   - A premium Guru-level Frontend Mentor challenge. This interactive feedback board allows users to submit, manage, and sort product feedback, with features such as comments and upvotes. This project will later be expanded into a full-stack version.
+3. **Product Feedback app** *(Planned)*  
+   - A premium Guru-level Frontend Mentor challenge. This interactive feedback board allows users to submit, manage, and sort product feedback, with features such as comments and upvotes.
+
+4. **Invoice app** *(Planned)*  
+   - A premium Guru-level Frontend Mentor challenge. This interactive invoicing tool allows users to create, view, and manage invoices, with additional features like filtering by status and detailed invoice previews.
+
+5. **Personal finance app** *(Planned)*  
+   - A premium Guru-level Frontend Mentor challenge. This comprehensive personal finance tracker enables users to set budgets, track expenses, and visualize financial data with charts and summaries.
 
 ## 🛠 How to Use  
 

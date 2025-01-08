@@ -40,7 +40,7 @@ const ProjectContainer = ({ project }) => (
         </a>
       </>
     ) : (
-      <span>In progress</span>
+      <span>Planned</span>
     )}
   </div>
 )
