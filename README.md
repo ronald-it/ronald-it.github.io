@@ -27,12 +27,12 @@ Here are some key projects featured on this portfolio:
 
 1. **The Clueless Cook**  
    - **GitHub Repository**: [The Clueless Cook](https://github.com/ronald-it/the-clueless-cook)  
-   - **Live Demo**: [The Clueless Cook on GitHub Pages](https://the-clueless-cook.onrender.com/)  
+   - **Live Demo**: [The Clueless Cook on Render](https://the-clueless-cook.onrender.com/)  
    - A web application for searching and exploring recipes, originally built as my Frontend Development bootcamp final project and now rebuilt to be fully responsive across all screen sizes.
 
 2. **Membership Manager** 
    - **GitHub Repository**: [Membership Manager](https://github.com/ronald-it/membership-manager)  
-   - **Live Demo**: [The Clueless Cook on GitHub Pages](https://membership-manager.onrender.com/) 
+   - **Live Demo**: [Membership Manager on Render](https://membership-manager.onrender.com/) 
    - A full-stack membership management web application, built as the final project for the PHP & MySQL module of my Backend Development program. It supports CRUD operations for managing members and related data.
 
 3. **Personal finance app** *(Planned)*  
