@@ -27,8 +27,8 @@ const projects = [
   {
     name: 'The Clueless Cook',
     description:
-      'Final project for my Frontend Development bootcamp. A web application for searching and exploring recipes, now rebuilt to be fully responsive across all screen sizes.',
-    stack: ['Tailwind', 'Next.js', 'PostgreSQL', 'Prisma'],
+      'Final project for my Frontend Development bootcamp. A web application for searching and exploring recipes, now rebuilt as a full-stack app responsive across all devices.',
+    stack: ['Tailwind', 'Next.js', 'PostgreSQL'],
     sourceCode: 'https://github.com/ronald-it/the-clueless-cook',
     livePreview: 'https://the-clueless-cook.onrender.com/',
   },
