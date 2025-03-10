@@ -9,10 +9,10 @@ const header = {
 const about = {
   // all the properties are optional - can be left empty or deleted
   name: 'Ronald Cirgofer',
-  role: 'Frontend Developer',
+  role: 'Full-stack Developer',
   educationInfo: `In July 2018, I obtained my bachelor’s degree in International Business and Languages at Hanze University of Applied Sciences, Groningen, the Netherlands. The first few years after graduating, I primarily gained work experience in administrative roles.`,
-  frontendInfo: `In February 2022, I made a career switch to IT by completing a Frontend Development bootcamp at NOVI University of Applied Sciences. This marked the beginning of my journey as a Frontend Developer, with the ambition to grow into a Full-Stack Developer.`,
-  backendInfo: `Currently, I am expanding my skill set through a Backend development program focused on Python, PHP, MySQL, UML, Agile and Scrum. This program runs until May 2025.`,
+  frontendInfo: `In February 2022, I made a career switch to IT by completing a Frontend Development bootcamp at NOVI University of Applied Sciences. This marked the beginning of my journey as a Frontend Developer.`,
+  backendInfo: `Between 2023 and 2025, I further expanded my skill set by successfully completing the key modules of a self-study Back-end Development program, broadening my expertise in backend technologies. This progression has enabled me to transition towards becoming a Full-Stack Developer.`,
   characteristicsInfo: `I am a motivated and organized professional with a strong eagerness to learn. I work well both independently and in a team and actively look for opportunities to develop my skills and grow within the tech industry.`,
   resume: 'https://example.com',
   social: {
@@ -43,7 +43,7 @@ const projects = [
   {
     name: 'Budgetly',
     description:
-      'A premium Guru-level Frontend Mentor challenge to build a personal finance tracker. Users can set budgets, track expenses, and visualize financial data with charts and summaries.',
+      'A Frontend Mentor challenge to build a personal finance tracker. Users can set budgets, track expenses, and visualize financial data with charts and summaries. Built full-stack.',
     stack: ['SCSS', 'Next.js', 'Django', 'PostgreSQL'],
   },
 ]
