@@ -28,9 +28,9 @@ const projects = [
     name: 'The Clueless Cook',
     description:
       'Final project for my Frontend Development bootcamp. A web application for searching and exploring recipes, now rebuilt to be fully responsive across all screen sizes.',
-    stack: ['Tailwind', 'Next.js'],
+    stack: ['Tailwind', 'Next.js', 'PostgreSQL', 'Prisma'],
     sourceCode: 'https://github.com/ronald-it/the-clueless-cook',
-    livePreview: 'https://ronald-it.github.io/the-clueless-cook/',
+    livePreview: 'https://the-clueless-cook.onrender.com/',
   },
   {
     name: 'Membership Manager',
@@ -41,22 +41,10 @@ const projects = [
     livePreview: 'https://membership-manager.onrender.com/',
   },
   {
-    name: 'Product Feedback app',
-    description:
-      'A premium Guru-level Frontend Mentor challenge to build an interactive feedback interface. Users can create, edit, manage feedback, sort suggestions and engage with comments.',
-    stack: ['Tailwind', 'React', 'Express.js', 'MongoDB'],
-  },
-  {
-    name: 'Invoice app',
-    description:
-      'A premium Guru-level Frontend Mentor challenge to build an invoicing platform. Users can create, edit, and manage invoices, filter by status, and view detailed invoice summaries.',
-    stack: ['SCSS', 'Nuxt.js', 'NestJS', 'PostgreSQL'],
-  },
-  {
-    name: 'Personal finance app',
+    name: 'Budgetly',
     description:
       'A premium Guru-level Frontend Mentor challenge to build a personal finance tracker. Users can set budgets, track expenses, and visualize financial data with charts and summaries.',
-    stack: ['SCSS', 'Angular', 'Django', 'PostgreSQL'],
+    stack: ['SCSS', 'Next.js', 'Django', 'PostgreSQL'],
   },
 ]
 
