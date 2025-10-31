@@ -35,8 +35,10 @@ Here are some key projects featured on this portfolio:
    - **Live Demo**: [Membership Manager on Render](https://membership-manager.onrender.com/) 
    - A full-stack membership management web application, built as the final project for the PHP & MySQL module of my Backend Development program. It supports CRUD operations for managing members and related data.
 
-3. **Personal finance app** *(Planned)*  
-   - A premium Guru-level Frontend Mentor challenge. This comprehensive personal finance tracker enables users to set budgets, track expenses, and visualize financial data with charts and summaries.
+3. **Personal finance app** *(In progress)*  
+   - **GitHub Repository**: [Notorium](https://github.com/ronald-it/notorium)
+   - **Live Demo**: [Notorium on Vercel](https://notorium-seven.vercel.app/) 
+   - A Frontend Mentor challenge to build a note-taking web app (in progress). Manage and archive notes, filter tags, search content, and customize themes. Fully responsive with full-stack support.
 
 ## 🛠 How to Use  
 

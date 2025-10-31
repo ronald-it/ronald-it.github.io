@@ -41,10 +41,12 @@ const projects = [
     livePreview: 'https://membership-manager.onrender.com/',
   },
   {
-    name: 'Budgetly',
+    name: 'Notorium',
     description:
-      'A Frontend Mentor challenge to build a personal finance tracker. Users can set budgets, track expenses, and visualize financial data with charts and summaries. Built full-stack.',
-    stack: ['SCSS', 'Next.js', 'Django', 'PostgreSQL'],
+      'A Frontend Mentor challenge to build a note-taking web app (in progress). Manage and archive notes, filter tags, search content, and customize themes. Fully responsive with full-stack support.',
+    stack: ['SCSS', 'Next.js', 'MongoDB'],
+    sourceCode: 'https://github.com/ronald-it/notorium',
+    livePreview: 'https://notorium-seven.vercel.app/',
   },
 ]
 
